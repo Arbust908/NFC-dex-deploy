@@ -1,1 +1,0 @@
-import{d as o,u as t,o as s,b as a,t as r,f}from"./vendor.b530ffe5.js";var e={};const c=o({setup(u){const{t:n}=t();return(p,i)=>(s(),a("div",null,r(f(n)("not-found")),1))}});typeof e=="function"&&e(c);export{c as default};
