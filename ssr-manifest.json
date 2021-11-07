@@ -170,30 +170,30 @@
     "/assets/virtual_pwa-register.932ceed5.js"
   ],
   "src/pages/write.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/write.ae1a0754.js",
+    "/assets/write.8517fc9b.js",
     "/assets/write.38cb6a06.css"
   ],
   "src/pages/write.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/write.ae1a0754.js",
+    "/assets/write.8517fc9b.js",
     "/assets/write.38cb6a06.css"
   ],
   "src/pages/write.vue": [
-    "/assets/write.ae1a0754.js",
+    "/assets/write.8517fc9b.js",
     "/assets/write.38cb6a06.css"
   ],
   "src/pages/README.md": [
     "/assets/README.5f9e48e8.js"
   ],
   "src/pages/read.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/read.8a092d44.js",
+    "/assets/read.e6e162d6.js",
     "/assets/read.50591c1d.css"
   ],
   "src/pages/read.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/read.8a092d44.js",
+    "/assets/read.e6e162d6.js",
     "/assets/read.50591c1d.css"
   ],
   "src/pages/read.vue": [
-    "/assets/read.8a092d44.js",
+    "/assets/read.e6e162d6.js",
     "/assets/read.50591c1d.css"
   ],
   "node_modules/.pnpm/@vueuse+shared@6.7.4_vue@3.2.20/node_modules/@vueuse/shared/index.mjs": [
@@ -203,27 +203,27 @@
     "/assets/index.d9834291.js"
   ],
   "src/pages/index-text.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/index-text.7ed9c869.js",
+    "/assets/index-text.cb89a6a0.js",
     "/assets/index-text.bcb6072a.css"
   ],
   "src/pages/index-text.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/index-text.7ed9c869.js",
+    "/assets/index-text.cb89a6a0.js",
     "/assets/index-text.bcb6072a.css"
   ],
   "src/pages/index-text.vue": [
-    "/assets/index-text.7ed9c869.js",
+    "/assets/index-text.cb89a6a0.js",
     "/assets/index-text.bcb6072a.css"
   ],
   "src/pages/dextest.vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/dextest.ea7c8758.js",
+    "/assets/dextest.c7258910.js",
     "/assets/dextest.d4b51d68.css"
   ],
   "src/pages/dextest.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/dextest.ea7c8758.js",
+    "/assets/dextest.c7258910.js",
     "/assets/dextest.d4b51d68.css"
   ],
   "src/pages/dextest.vue": [
-    "/assets/dextest.ea7c8758.js",
+    "/assets/dextest.c7258910.js",
     "/assets/dextest.d4b51d68.css"
   ],
   "src/types/poke.ts": [
@@ -245,24 +245,24 @@
     "/assets/404.f13db803.js"
   ],
   "~icons/carbon/language": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "~icons/carbon/sun": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "~icons/carbon/moon": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "~icons/carbon/campsite": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "src/logic/dark.ts": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "src/components/Footer.vue": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.147fc736.js"
+    "/assets/home.bc9eb8d6.js"
   ]
 }
